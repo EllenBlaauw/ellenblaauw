@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ellen</h1>
+<h1>Hi 👋, I'm Ellen</h1>
 <h3> I'm learning the codes and building projects~</h3
 
 - 📫 How to reach me **ellenbblaauw@gmail.com**
@@ -15,7 +15,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ellenblaauw&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-##🏆 GitHub Trophies
+### 🏆 GitHub Trophies
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ellenblaauw" alt="ellenblaauw" /></a> </p>
 
 ### 🔝 Top Contributed Repo
